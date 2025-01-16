@@ -1,4 +1,4 @@
-Esta aplicación es una calculadora hecha con kotlin.
+Esta aplicación es una calculadora hecha en Kotlin.
 En esta calculadora se puede sumar tanto números enteros como números con décimales, con un límite de 100 caracteres.
 Para instalar esta aplicación hay que entrar en Android Studio y darle a "Get from VCS" desde la pantalla de bienvenida, o a "Clone Repository" 
 
